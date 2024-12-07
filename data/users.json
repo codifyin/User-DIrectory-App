@@ -1,0 +1,12 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "fullname": "Admin User",
+        "username": "admin",
+        "password": "hashed_password",
+        "role": "admin",
+        "is_blocked": false
+      }
+    ]
+  }
